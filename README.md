@@ -1,4 +1,6 @@
-# 🚀 Welcome to huntapi ![Starter Logo](images/starter-logo.svg) ![NodeJS Logo](images/nodejs-logo.svg)
+![Starter Logo](images/starter-logo.svg) ![NodeJS Logo](images/nodejs-logo.svg)
+
+# 🚀 Welcome to huntapi
 
 Backend developed in the **[Starter / NodeJS Course](https://rocketseat.com.br/starter)** by **[Rocketseat](https://rocketseat.com.br/)**.
 
